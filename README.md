@@ -1,6 +1,7 @@
 # Tools
 
-Scripts and tools 
-#User_script
+Scripts and tools for everyday Devops 
 
-Script pour créer et effacer des utilisateurs depuis une liste et un menu
+# User_script.sh
+
+Bash script pour créer et effacer des utilisateurs depuis une liste et un menu
